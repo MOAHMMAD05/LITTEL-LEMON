@@ -11,10 +11,15 @@ The project consists of 4 main interconnected pages providing a complete user jo
 3.  **Info Page:** Details about the restaurant, including operating hours and location information.
 4.  **Reservation Page:** A dedicated page allowing users to submit table booking requests.
 5.  ## Screenshots
-6.  <img width="1911" height="1031" alt="Screenshot 2026-05-12 181620" src="https://github.com/user-attachments/assets/93b76e00-50a3-43c2-b3ad-099691ad5e1a" />
+<img width="1911" height="1031" alt="Screenshot 2026-05-12 181620" src="https://github.com/user-attachments/assets/93b76e00-50a3-43c2-b3ad-099691ad5e1a" />
 <img width="1911" height="921" alt="Screenshot 2026-05-12 181648" src="https://github.com/user-attachments/assets/2f228f6a-15da-4dd6-8ce9-9b02f57e6e25" />
 <img width="1893" height="1013" alt="Screenshot 2026-05-12 181707" src="https://github.com/user-attachments/assets/4f3d0a03-adf3-45b6-8616-9694d6c507bf" />
-7. <img width="1895" height="973" alt="Screenshot 2026-05-12 181724" src="https://github.com/user-attachments/assets/1af5f8dc-4f01-4538-a227-b74c948d8b64" />
+<img width="1895" height="973" alt="Screenshot 2026-05-12 181724" src="https://github.com/user-attachments/assets/1af5f8dc-4f01-4538-a227-b74c948d8b64" />
+6. ## Video
+https://github.com/user-attachments/assets/5dffafdf-ef4a-4455-8d22-dba6e8d65a0a
+
+
+
 
  
 
