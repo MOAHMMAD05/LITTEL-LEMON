@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+    
+    
+    <title>LITTLE LEMON</title>
+    <style>
+        body{
+            background-color: #faf8f3;
+            
+        }   
+        header h1{
+            color:  #495E57;
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+
+        }
+        header{
+            margin: 40px;
+        }
+            
+         
+        label{
+            color: #495E57;
+            font-size: xx-large;
+            font-family: 'Coneria Script', cursive;
+            text-align: center;
+        }
+
+        .submt button{
+            text-align: center;
+            border: #495E57 2px solid;
+            background-color:#495E57 ;
+            color: #faf8f3;
+            font-size: large;
+            
+        }
+        .submt button:hover{
+             border: #faf8f3 2px solid;
+            background-color:#faf8f3 ;
+            color:#495E57;
+        }
+        section{
+            margin: 10px;
+
+        }
+        main{
+            display: flex;
+            justify-content: space-around;
+            
+           
+        }
+       form{
+        border: #495E57 2px ;
+        
+        text-align: center;
+
+       }
+       
+    </style>
+
+
+
+</html>
+
+
+<body>
+    <header>
+        <h1>Welcome To Our Restornt</h1>
+    </header>
+
+    <main>
+
+        <article id="left">
+            <img src="logo.png" alt="" width="100" height="100">
+            
+        </article>
+
+
+        <article class="center">
+             <form>
+            <section>
+            <label for="name">Name</label><br>
+            <input type="text" id="name">
+            </section>
+            <section>
+            <label for="email">Email</label> <br>   
+            <input type="email" id="email" >
+            </section>
+            <section>
+            <label for="tel">Phone Number</label> <br>
+            <input type="tel" id="tel" placeholder="++44 xxxx xxxx xx">
+            </section>
+            <section>
+                <label for="day">Day</label> <br>
+                <select name="" id="day">
+                    <option value="" hidden  ></option>
+                    <option value="1">Sunday</option>
+                    <option value="2">Monday</option>
+                    <option value="3">Tusday</option>
+                    <option value="4">Wednesday</option>
+                    <option value="5">Thersday</option>
+                    <option value="6">Friday</option>
+                    <option value="7">Sutrday</option>
+                </select>
+            </section>
+            <section>
+                <label for="date">Date</label> <br>
+                <input type="date"  id="date">
+            </section>
+            <section>
+            <label for="time">Time</label> <br>
+            <input type="time" id="time">
+            </section>
+            <section>
+            <label for="number">Number of Guests</label><br>
+            <select name="" id="number">
+                    <option value="" hidden  ></option>
+                    <option value="1">1 person</option>
+                    <option value="1">2 person</option>
+                    <option value="2">3 person</option>
+                    <option value="3">4 person</option>
+                    <option value="4">+5 person</option>
+                    
+                </select>
+            </section>
+            <section>
+                <label for="note">Any thing</label><br>
+                <textarea name="" id="" cols="20" rows="10"></textarea>
+            </section>
+            <section class="submt">
+            <button type="submit">Confirm</button>
+            </section>
+
+
+
+        </form>
+        </article>
+        <article id="left">
+            <img src="logo.png" alt="" width="100" height="100">
+        </article>
+        
+    </main>
+
+    <footer></footer>
+
+
+</body>
